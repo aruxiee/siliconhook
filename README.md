@@ -6,6 +6,8 @@ Unlike standard software hooks that overwrite memory with `JMP` instructions or 
 
 The tool forces the processor to pause and hand control to our script the moment a specific memory address is accessed by using hardware registers to hook the execution flow.
 
+⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
+
 ---
 
 ## 🛠️ Binaries
