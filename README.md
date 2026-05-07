@@ -105,3 +105,7 @@ Researchers can leverage this hook for high-impact exploitation.
 *   **TOCTOU Manipulation:** Wait for a program to validate a *Safe* file. Trigger the hook on the subsequent `CreateFile` call and swap the $RCX$ path to a malicious file *after* the safety check has already finished.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
